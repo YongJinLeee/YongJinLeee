@@ -17,6 +17,3 @@ Resume 업로드 예정
 -----
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=yongjinleee&show_icons=true&theme=cobalt&locale=en" alt="yongjinleee" /></p>
-
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yongjinleee&theme=dark" alt="yongjinleee" /></p>
