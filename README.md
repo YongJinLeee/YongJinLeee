@@ -3,9 +3,7 @@
 - 📄 Know about my experiences [here](here) 
 ```
 Resume 업로드 예정
-github.io
-혹은 
-Notion
+Notion으로 통합
 ```
 
 
