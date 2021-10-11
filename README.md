@@ -2,9 +2,10 @@
 
 - 📄 Know about my experiences [here](here) 
 ```
-Resume 업로드 예정
-Notion으로 통합
+
 ```
+
+![icons8-notion-white-fill-50](https://user-images.githubusercontent.com/40759743/136832236-7f08ac6e-97cc-49d3-a5d8-a6085b3610d4.png)
 
 
 -----
