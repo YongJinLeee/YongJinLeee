@@ -2,7 +2,7 @@
 
 - 🌱 PAPA Mobility **iOS App Developer**
 
-- 🚀[PaPa Mobility](https://www.papamobility.com) 
+- 🚀[PAPA Mobility](https://www.papamobility.com) 
 ```
 
 ```
