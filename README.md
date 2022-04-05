@@ -1,8 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=2,7,16&height=150&section=header&text=Be%20Nice&fontSize=50)
 
-- 🌱 PAPA Mobility **iOS App Developer**
+- 🌱 PAPA Mobility **iOS App Engineer**
 
 - 🚀[PAPA Mobility](https://www.papamobility.com) 
+  - 파파 1.6.X 시간대절 프로젝트 릴리즈 (앱스토어 ver. 1.6.1) 
+  - Alamofire.responseJSON + SwiftyJSON -> Alamofire.responseDecodable + Codable 리팩토링 진행중
+  - 2.0.0 New Papa iOS 설계 중!
 ```
 
 ```
