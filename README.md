@@ -5,7 +5,7 @@
 - 🚀[PAPA Mobility](https://www.papamobility.com) 
   - 파파 1.6.X 시간대절 프로젝트 릴리즈 (앱스토어 ver. 1.6.1) 
   - Alamofire.responseJSON + SwiftyJSON -> Alamofire.responseDecodable + Codable 리팩토링 진행중
-  - 2.0.0 New Papa iOS 설계 중!
+  - 2.0.0 New Papa iOS 개발 중!
 ```
 
 ```
