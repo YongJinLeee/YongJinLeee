@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=2,7,16&height=150&section=header&text=Be%20Nice&fontSize=50)
 
 - 🌱 PAPA Mobility **iOS App Engineer**
-
+2022.11~
 - 🚀[PAPA Mobility](https://www.papamobility.com) 
   - 파파 1.6.X 시간대절 프로젝트 릴리즈 (앱스토어 ver. 1.6.1) - 입사 첫 배포! (22.03)
   - Fastlane 도입 (beta , release 레인 운용)
