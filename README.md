@@ -6,7 +6,7 @@
   - 파파 1.6.X 시간대절 프로젝트 릴리즈 (앱스토어 ver. 1.6.1) - 입사 첫 배포! (22.03)
   - Fastlane 도입 (beta , release 레인 운용)
     - TestFlight 자동배포 구축
-    - Firebase crashlytic 연동 및 dSYM 전송으로 에러 추적 고도화
+    - Firebase crashlytic 연동 및 dSYM 전송으로 오류 추적을 더 명확하게
     - Match 도입으로 협업자 간 배포 인증서 사용 및 관리 일원화 작업 완료
   - 2.0.0 New Papa iOS 개발 완료! (22.06)
   
