@@ -17,7 +17,7 @@
     - 컨벤션을 위한 Lint, R.swift 도입 및 사용
 
   - Product Code Refactoring :
-    - Alamofire.responseJSON + SwiftyJSON -> Alamofire.responseDecodable + Codable 리팩토링 진행중 (네트워크 통신 응답 데이터 처리방식 개선)
+    - Alamofire.responseJSON + SwiftyJSON -> Alamofire.responseDecodable + Codable
     - 디자인 패턴 전환 중(MVC -> MVVM)
 
   - iOS 스프린트 체계 구축
