@@ -22,7 +22,7 @@
     - 디자인 패턴 전환 중(MVC -> MVVM)
 
   - iOS 스프린트 체계 구축
-![icons8-notion-white-fill-50](https://user-images.githubusercontent.com/40759743/136832236-7f08ac6e-97cc-49d3-a5d8-a6085b3610d4.png)
+<!-- ![icons8-notion-white-fill-50](https://user-images.githubusercontent.com/40759743/136832236-7f08ac6e-97cc-49d3-a5d8-a6085b3610d4.png) -->
 
 
 -----
