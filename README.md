@@ -15,6 +15,7 @@
     - UX 디자인 개선 작업 참여
     - Design System 도입 참여
     - 컨벤션을 위한 Lint, R.swift 도입 및 사용
+    - Code Based UI 전환
 
   - Product Code Refactoring :
     - Alamofire.responseJSON + SwiftyJSON -> Alamofire.responseDecodable + Codable
