@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=2,7,16&height=150&section=header&text=우당탕탕%20iOS&fontSize=50)
 
-- 🌱 PAPA Mobility **iOS App Engineer**
-2022.11~
+- PAPA Mobility **iOS App Engineer**
+2021.11~
 - 🚀[PAPA Mobility](https://www.papamobility.com) 
   - 1.6.0 ~ 1.7.0
   - Fastlane 도입 (beta , release 레인 운용)
@@ -9,7 +9,7 @@
     - Firebase crashlytic 연동 및 dSYM 전송으로 오류 추적을 더 명확하게
     - Match 도입으로 협업자 간 배포 인증서 사용 및 관리 일원화 작업 완료
 
-   - 2.0 New Papa
+   - Papa 2.0
     - 2.M.m ~ 현재 
     - UI 전면 교체 및 신규 기능 개발
     - UX 디자인 개선 작업 참여
@@ -19,7 +19,7 @@
 
   - Product Code Refactoring :
     - Alamofire.responseJSON + SwiftyJSON -> Alamofire.responseDecodable + Codable
-    - 디자인 패턴 전환 중(MVC -> MVVM)
+    - 디자인 패턴 전환 (MVC -> MVVM)
 
   - iOS 스프린트 체계 구축
 <!-- ![icons8-notion-white-fill-50](https://user-images.githubusercontent.com/40759743/136832236-7f08ac6e-97cc-49d3-a5d8-a6085b3610d4.png) -->
