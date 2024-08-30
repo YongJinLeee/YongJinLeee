@@ -1,8 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=2,7,16&height=150&section=header&text=우당탕탕%20iOS&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=2,7,16&height=150&section=header&text=잘해보자%20iOS&fontSize=40)
 
-- PAPA Mobility **iOS App Engineer**
-2021.11~
-- 🚀[PAPA Mobility](https://www.papamobility.com)
+- PAPA Mobility **iOS App Engineer** 
+
+  - 2021.11~
+  - 🚀[PAPA Mobility](https://www.papamobility.com)
 
 <!-- ![icons8-notion-white-fill-50](https://user-images.githubusercontent.com/40759743/136832236-7f08ac6e-97cc-49d3-a5d8-a6085b3610d4.png) -->
 
